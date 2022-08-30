@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Decorunic Linktree",
+  "name": "Decorunic Linktree | Furniture Hemat Ruang Minimalis Space Saving &#8211; Decorunic Hemat Ruang",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#f3e669",
   "background_color": "#ffffff"
 }
